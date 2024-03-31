@@ -12,10 +12,11 @@ model configuration, followed by model training and evaluation. It concludes wit
 providing an understanding of the model's capabilities in classifying retinal images for the presence of diabetic retinopathy.
 Python 3.12
 
-***Dataset Kaggle.com***
+*** Kaggle.com Dataset ***
+
 Link: https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered
 
-
+YouTube tutorial:
 
 
 ![Diabetic Retinopathy Prediction](https://github.com/hot-zero/Diabetic-Retinopathy-Prediction/assets/72950401/256aeeba-4268-42ba-9e9d-281620c7c0f0)
