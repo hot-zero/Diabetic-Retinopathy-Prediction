@@ -16,7 +16,7 @@ Python 3.12
 
 Link: https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered
 
-YouTube tutorial:
+YouTube tutorial: https://youtu.be/kFfE0jpBrzA
 
 
 ![Diabetic Retinopathy Prediction](https://github.com/hot-zero/Diabetic-Retinopathy-Prediction/assets/72950401/256aeeba-4268-42ba-9e9d-281620c7c0f0)
