@@ -4,11 +4,11 @@ ASMR Programming – Diabetic Retinopathy Prediction - No Talking
 
 
 Hello Dear coders,
-This Python script is developed for the purpose of detecting diabetic retinopathy in retinal fundus photographs. 
+This Python script is developed to predict diabetic retinopathy in retinal fundus photographs. 
 It utilizes a convolutional neural network (CNN) based on the MobileNetV2 architecture. The code includes functions for 
 loading and preprocessing image data, generating data augmentations, building and training the CNN model, and evaluating 
 its performance through accuracy, loss, and a confusion matrix. The script is structured to first set up the dataset and 
-model configuration, followed by model training and evaluation. It concludes with visualization of the model's predictions, 
+model configuration, followed by model training and evaluation. It concludes with a visualization of the model's predictions, 
 providing an understanding of the model's capabilities in classifying retinal images for the presence of diabetic retinopathy.
 Python 3.12
 
